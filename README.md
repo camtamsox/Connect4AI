@@ -19,4 +19,5 @@ This shows the need for predicting the action values (the probability of winning
 
 
 https://github.com/camtamsox/Connect4AI/assets/109252429/4bfe9478-7dfa-41c1-810e-449f3d4a05fe
+
 _Me playing against the AI after 50,000 training games._
